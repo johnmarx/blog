@@ -1,4 +1,4 @@
-SYMFONY 2.8 john marx PS: merci Cyrfan
+SYMFONY 2.8 john marx PS: réalisé avec l'aide (et surtout la patience) de cyriaque  
 
 
 Blog réalisé grâce au bundle EDBLOGBUNDLE https://github.com/EtonDigital/EDBlogBundle
